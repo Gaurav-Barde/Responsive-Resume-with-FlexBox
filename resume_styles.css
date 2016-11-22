@@ -77,3 +77,9 @@ header h1 {
 .hide {
   display: none;
 }
+
+
+/* Styles for the link  */
+a:link, a:visited {
+  color: inherit;
+}
